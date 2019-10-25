@@ -1,6 +1,6 @@
 # 主要概念
 
-{{indexmenu_n>1}}
+
 
 ![image](/images/concepts.png)
 
