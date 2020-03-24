@@ -30,7 +30,7 @@ CPU：1核～16核
 
 暂不支持网络增强特性
 
- [云主机磁盘I/O基准性能测试](/compute/uhost/testdata/io_uhost)
+ [云主机磁盘I/O基准性能测试](uhost/testdata/io_uhost)
 
 ## 地域与可用区
 
@@ -41,4 +41,4 @@ CPU：1核～16核
 
 目前提供私有专区服务的地域包含北京二、上海二和广州。具体可用区则划分为北京二可用区B、北京二可用区C、北京二可用区D；上海二可用区B以及广州可用区B。
 
-关于其他产品概念，例如镜像、网络，请参考 [云主机产品概念](/compute/uhost/introduction/concept)。
+关于其他产品概念，例如镜像、网络，请参考 [云主机产品概念](uhost/introduction/concept)。
