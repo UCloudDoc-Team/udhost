@@ -1,4 +1,3 @@
-<div class="sidebar_title icon__udhost"> 私有专区 UDHost</div>
 
 * [概览](/udhost/README)
 * [主要概念](/udhost/concepts)
